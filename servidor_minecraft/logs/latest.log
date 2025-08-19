@@ -2604,3 +2604,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Aug2025 02:38:28.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! 2.4105161402057433,0.0,-9.83980802432282
 [19Aug2025 02:38:54.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! 1.5844565014003251,0.0,10.572002974181203
 [19Aug2025 02:39:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to -192.500000, 69.500000, 286.500000]
+[19Aug2025 02:53:39.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:39.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:39.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:53:40.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:54:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Set the weather to rain]
+[19Aug2025 02:54:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Set the weather to rain & thunder]
+[19Aug2025 02:56:02.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:02.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:03.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:04.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:05.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Aug2025 02:56:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Set the weather to clear]
+[19Aug2025 02:57:21.781] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.137 ms. 4982/5070 recipes are parallelized.
+[19Aug2025 02:57:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Removed 16 item(s) from player NeroMr]
+[19Aug2025 02:57:48.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr lost connection: Disconnected
+[19Aug2025 02:57:48.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr left the game
