@@ -1,0 +1,17 @@
+{
+	id: "c9db194a-9bc9-3309-9793-3b77b45ab960"
+	type: "player"
+	player_name: "NeroMr"
+	ranks: {
+		c9db194a-9bc9-3309-9793-3b77b45ab960: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NeroMr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5981FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

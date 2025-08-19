@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c9db194a9bc9330997933b77b45ab960"
+	name: "NeroMr#c9db194a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
