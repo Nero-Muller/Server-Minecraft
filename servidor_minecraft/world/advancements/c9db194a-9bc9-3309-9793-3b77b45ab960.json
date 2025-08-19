@@ -1,4 +1,10 @@
 {
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-08-19 02:37:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_slanted_recipe": "2025-08-19 02:29:49 +0000"
@@ -13,6 +19,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-19 02:37:37 +0000",
+      "minecraft:frozen_river": "2025-08-19 02:37:38 +0000",
       "minecraft:stony_shore": "2025-08-19 02:31:53 +0000",
       "minecraft:snowy_taiga": "2025-08-19 02:29:53 +0000"
     },
@@ -33,6 +41,12 @@
   "cosmeticarmoursmod:cosmetic_armours_achievement": {
     "criteria": {
       "cosmetic_armours_achievement_0": "2025-08-19 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-19 02:39:46 +0000"
     },
     "done": true
   },

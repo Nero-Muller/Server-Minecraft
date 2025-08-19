@@ -2596,3 +2596,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Aug2025 02:37:31.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Aug2025 02:37:31.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Aug2025 02:37:34.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[19Aug2025 02:37:41.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! -10.707258295083307,2.078246482582088,-0.5291733273971886
+[19Aug2025 02:37:51.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[19Aug2025 02:37:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Minecraft Comes Alive]
+[19Aug2025 02:38:05.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[19Aug2025 02:38:24.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! -4.455649972656715,0.0,-9.401906506370779
+[19Aug2025 02:38:28.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! 2.4105161402057433,0.0,-9.83980802432282
+[19Aug2025 02:38:54.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr moved too quickly! 1.5844565014003251,0.0,10.572002974181203
+[19Aug2025 02:39:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to -192.500000, 69.500000, 286.500000]
