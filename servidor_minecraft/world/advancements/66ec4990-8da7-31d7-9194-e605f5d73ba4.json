@@ -1,0 +1,72 @@
+{
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-24 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-08-24 22:30:43 +0000",
+      "minecraft:frozen_river": "2025-08-24 22:31:02 +0000",
+      "minecraft:stony_shore": "2025-08-24 22:28:18 +0000",
+      "minecraft:snowy_taiga": "2025-08-24 22:29:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-24 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-24 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

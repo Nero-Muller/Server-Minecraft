@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "66ec49908da731d79194e605f5d73ba4"
+	name: "SonyVergas#66ec4990"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

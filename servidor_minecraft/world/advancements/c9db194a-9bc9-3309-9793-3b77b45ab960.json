@@ -170,15 +170,27 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "aquamirae:adventure/find_ice_maze": {
     "criteria": {
-      "iron_helmet": "2025-08-24 20:45:34 +0000"
+      "deep_frozen_ocean": "2025-08-24 20:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-08-24 20:26:47 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-24 20:29:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-24 20:38:36 +0000"
     },
     "done": true
   },
@@ -194,24 +206,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-08-24 20:24:40 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-08-24 20:38:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2025-08-24 20:26:47 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-08-24 20:45:27 +0000"
@@ -221,6 +215,24 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-24 20:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-24 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-08-24 22:23:56 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-08-24 22:23:56 +0000"
     },
     "done": true
   },
