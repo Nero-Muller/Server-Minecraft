@@ -32,7 +32,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2025-08-24 18:46:30 +0000",
-      "minecraft:deep_dark": "2025-08-24 18:50:01 +0000"
+      "minecraft:deep_dark": "2025-08-24 18:50:01 +0000",
+      "minecraft:plains": "2025-08-24 19:12:01 +0000"
     },
     "done": false
   },
@@ -92,6 +93,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-08-24 19:13:23 +0000",
       "glow_berries": "2025-08-24 18:57:29 +0000"
     },
     "done": false

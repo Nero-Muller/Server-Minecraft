@@ -11368,3 +11368,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:12:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki left the game
 [24Aug2025 19:13:45.891] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
 [24Aug2025 19:13:49.199] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:impaled_icebreaker is being run through DFU (hash 32ec4447603b50cb8d3543f27ea63af0af9ccdbacd2b8843a647ed37dd760b38), this will cause launch time delays
+[24Aug2025 19:14:14.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Set own game mode to Spectator Mode]
+[24Aug2025 19:14:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to TheLegxdz]
+[24Aug2025 19:14:43.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[24Aug2025 19:14:56.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 19:14:56.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 19:15:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to TheLegxdz]
+[24Aug2025 19:15:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> andas haciendo speed run de la ancient city Leg xd
+[24Aug2025 19:16:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> no he conseguido nada XD
+[24Aug2025 19:16:16.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> solo unas botas que ahora hacen que me deslize y no las puedo quitar
+[24Aug2025 19:16:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> pero tienes pantalones de hierro, y encantado de paso
+[24Aug2025 19:16:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> xD
+[24Aug2025 19:16:30.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> a pero no se que es esquivar xd
+[24Aug2025 19:16:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> ni que fuera dark souls xd
