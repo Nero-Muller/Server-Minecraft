@@ -1710,3 +1710,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 23:12:49.947] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21788, l='ServerLevel[world]', x=-927.50, y=41.00, z=233.50]
 [24Aug2025 23:13:25.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21927, l='ServerLevel[world]', x=-926.50, y=30.00, z=242.50]
 [24Aug2025 23:13:40.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21975, l='ServerLevel[world]', x=-924.50, y=36.00, z=245.50]
+[24Aug2025 23:20:01.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr lost connection: Timed out
+[24Aug2025 23:20:01.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr left the game
