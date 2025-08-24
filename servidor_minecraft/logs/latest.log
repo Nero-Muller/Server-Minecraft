@@ -1552,3 +1552,96 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 18:45:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue joined the game
 [24Aug2025 18:45:37.035] [Server thread/INFO] [Jade/]: Syncing config to GodJsue (c3e454c1-feec-3a7b-aaa0-6edc4b3cf06f)
 [24Aug2025 18:45:50.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[24Aug2025 18:46:29.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLegxdz[/127.75.48.215:58105] logged in with entity id 1735 at (-191.5, 69.0, 286.5)
+[24Aug2025 18:46:29.924] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TheLegxdz
+[24Aug2025 18:46:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz joined the game
+[24Aug2025 18:46:30.000] [Server thread/INFO] [Jade/]: Syncing config to TheLegxdz (2a2cf4e3-bdc3-33cb-8fd0-6e7215a9abd8)
+[24Aug2025 18:48:06.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr lost connection: Disconnected
+[24Aug2025 18:48:06.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr left the game
+[24Aug2025 18:49:24.460] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Aug2025 18:49:24.867] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[24Aug2025 18:49:50.777] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleCategory
+[24Aug2025 18:49:50.778] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleStage
+[24Aug2025 18:49:56.505] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Aug2025 18:49:57.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32881ms or 657 ticks behind
+[24Aug2025 18:49:57.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Alex's Mobs]
+[24Aug2025 18:49:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> wenas jsue
+[24Aug2025 18:50:05.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeroMr[/127.141.236.192:35031] logged in with entity id 2271 at (-189.42769294961371, 69.0625, 288.1281619248939)
+[24Aug2025 18:50:05.781] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player NeroMr
+[24Aug2025 18:50:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr joined the game
+[24Aug2025 18:50:05.964] [Server thread/INFO] [Jade/]: Syncing config to NeroMr (c9db194a-9bc9-3309-9793-3b77b45ab960)
+[24Aug2025 18:50:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> por que en su stream
+[24Aug2025 18:50:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> tengo skin diferente
+[24Aug2025 18:50:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> como?
+[24Aug2025 18:50:48.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> porque uso sk launcher y uste no
+[24Aug2025 18:50:48.933] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[24Aug2025 18:50:50.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[24Aug2025 18:50:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Sneak 100]
+[24Aug2025 18:50:57.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> no tiene sentido eso
+[24Aug2025 18:51:09.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-192, y=69, z=288}
+[24Aug2025 18:51:10.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-192, y=69, z=288}
+[24Aug2025 18:51:10.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-192, y=69, z=288}
+[24Aug2025 18:51:12.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[24Aug2025 18:51:13.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> amigos no se por que elegi ir a una Ancient City xdd
+[24Aug2025 18:51:33.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[24Aug2025 18:51:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> como le hiciste wtf xd
+[24Aug2025 18:51:35.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> xDDDD
+[24Aug2025 18:51:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> ahora si, el libro que me prometieron ekisde
+[24Aug2025 18:51:42.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> apenas estamos empezando
+[24Aug2025 18:51:49.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[24Aug2025 18:52:04.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> te traigo al spawn?
+[24Aug2025 18:52:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> no nada
+[24Aug2025 18:52:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> intentare sacar loot :V
+[24Aug2025 18:52:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> el libro de personalizar aldeanos
+[24Aug2025 18:52:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> no me deja tomar comida ni nada
+[24Aug2025 18:52:40.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigorii'/3127, l='ServerLevel[world]', x=1881.57, y=119.00, z=-1393.62] died, message: 'Grigorii froze to death'
+[24Aug2025 18:52:40.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[24Aug2025 18:52:40.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[24Aug2025 18:52:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> eligio la ancient city en lugar de el spawn xD
+[24Aug2025 18:52:47.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> eso xddd
+[24Aug2025 18:53:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> no me deja abrir cofre ni ver los libros
+[24Aug2025 18:53:06.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> tiene sentido xd
+[24Aug2025 18:53:08.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> yo estaba en el spawn y no me debaja interactuar y me tepeo xd
+[24Aug2025 18:53:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> deja reviso
+[24Aug2025 18:53:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> listo jsjs
+[24Aug2025 18:54:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> no me deja leer tampoco
+[24Aug2025 18:54:06.087] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[24Aug2025 18:54:07.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-194, y=69, z=285}
+[24Aug2025 18:54:07.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-194, y=69, z=285}
+[24Aug2025 18:54:07.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-194, y=69, z=285}
+[24Aug2025 18:54:09.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> amigos vengan a salvarme del Warden
+[24Aug2025 18:54:18.015] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SledEntity['Sled'/6956, l='ServerLevel[world]', x=2216.50, y=168.50, z=-1400.00] as it would cause deadlock
+[24Aug2025 18:54:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> mejor te hago tp aqui leg xd
+[24Aug2025 18:54:32.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> peren que ando bien
+[24Aug2025 18:54:36.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-202, y=71, z=284}
+[24Aug2025 18:54:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> robare un cofrecito y saldre a la superficie x
+[24Aug2025 18:54:41.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> d
+[24Aug2025 18:54:46.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> empiezo a creer que hay spanw protection
+[24Aug2025 18:54:47.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jevgeniy'/2366, l='ServerLevel[world]', x=1955.30, y=141.00, z=-1379.50] died, message: 'Jevgeniy froze to death'
+[24Aug2025 18:54:50.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> weno
+[24Aug2025 18:55:00.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> pos no se
+[24Aug2025 18:55:10.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marija'/3192, l='ServerLevel[world]', x=1876.35, y=110.00, z=-1379.66] died, message: 'Marija froze to death'
+[24Aug2025 18:56:01.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mykhailo'/2755, l='ServerLevel[world]', x=1897.48, y=112.00, z=-1433.67] died, message: 'Mykhailo froze to death'
+[24Aug2025 18:56:05.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:09.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:09.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:09.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:09.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:09.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:10.900] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:11.593] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 18:56:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> la sangre es por un mod, no me acuerdo cual xd

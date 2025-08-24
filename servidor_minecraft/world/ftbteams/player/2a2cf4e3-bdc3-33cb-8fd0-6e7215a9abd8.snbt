@@ -1,0 +1,17 @@
+{
+	id: "2a2cf4e3-bdc3-33cb-8fd0-6e7215a9abd8"
+	type: "player"
+	player_name: "TheLegxdz"
+	ranks: {
+		2a2cf4e3-bdc3-33cb-8fd0-6e7215a9abd8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheLegxdz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

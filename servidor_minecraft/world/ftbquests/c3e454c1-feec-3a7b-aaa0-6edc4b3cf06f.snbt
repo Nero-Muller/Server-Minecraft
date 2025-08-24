@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c3e454c1feec3a7baaa06edc4b3cf06f"
+	name: "GodJsue#c3e454c1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -75,5 +75,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-24 18:52:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-24 18:52:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
