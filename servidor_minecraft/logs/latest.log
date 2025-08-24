@@ -1618,3 +1618,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 22:43:58.854] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/8876, l='ServerLevel[world]', x=-922.50, y=28.00, z=254.50]
 [24Aug2025 22:44:09.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/8980, l='ServerLevel[world]', x=-924.50, y=35.00, z=239.50]
 [24Aug2025 22:44:24.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonyVergas> duermeeeeeeeeee
+[24Aug2025 22:44:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonyVergas> NeroMr
+[24Aug2025 22:44:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> me estoy muriendo xd
+[24Aug2025 22:44:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonyVergas> NeroMr
+[24Aug2025 22:44:48.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[24Aug2025 22:44:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr was blown up by Creeper
+[24Aug2025 22:44:57.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to -894.500000, 63.500000, 244.500000]
+[24Aug2025 22:45:23.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yamini'/9390, l='ServerLevel[world]', x=-829.52, y=68.00, z=200.48] died, message: 'Yamini was shot by Pillager'
+[24Aug2025 22:45:23.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yamini'/9390, l='ServerLevel[world]', x=-829.52, y=68.00, z=200.48] died: Yamini was shot by Pillager
+[24Aug2025 22:45:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonyVergas> tengo tantito lag
+[24Aug2025 22:45:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [We Just Want our Hat Back]
+[24Aug2025 22:45:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonyVergas> los mensaje se envian 1 min despues
+[24Aug2025 22:46:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [The Light In The Darkness]
+[24Aug2025 22:46:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> xd
+[24Aug2025 22:46:11.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 22:46:11.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 22:46:31.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:50597] logged in with entity id 10615 at (-342.5, 72.0, 316.5)
+[24Aug2025 22:46:31.978] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 22:46:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 22:46:32.015] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 22:46:59.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Divya'/9515, l='ServerLevel[world]', x=-737.55, y=61.00, z=257.42] died, message: 'Divya froze to death'
+[24Aug2025 22:46:59.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Divya'/9515, l='ServerLevel[world]', x=-737.55, y=61.00, z=257.42] died: Divya froze to death
+[24Aug2025 22:47:30.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 22:47:30.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 22:48:12.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:42523] logged in with entity id 11976 at (-342.5, 72.0, 316.5)
+[24Aug2025 22:48:12.131] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 22:48:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 22:48:12.167] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 22:50:27.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 22:50:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 22:50:28.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons
+[24Aug2025 22:50:50.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12923, l='ServerLevel[world]', x=-925.50, y=37.00, z=234.50]
+[24Aug2025 22:50:52.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:56949] logged in with entity id 12942 at (-341.30000001192093, 73.0, 315.7557390169752)
+[24Aug2025 22:50:52.630] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 22:50:52.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 22:50:52.665] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 22:51:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas has made the advancement [Stone Age]
+[24Aug2025 22:51:44.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13514, l='ServerLevel[world]', x=-923.50, y=42.00, z=246.50]
+[24Aug2025 22:52:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas has made the advancement [Getting an Upgrade]
+[24Aug2025 22:52:33.405] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13868, l='ServerLevel[world]', x=-925.50, y=31.00, z=245.50]
+[24Aug2025 22:53:24.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14330, l='ServerLevel[world]', x=-926.50, y=36.00, z=230.50]
+[24Aug2025 22:54:15.252] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14697, l='ServerLevel[world]', x=-926.50, y=41.00, z=240.50]

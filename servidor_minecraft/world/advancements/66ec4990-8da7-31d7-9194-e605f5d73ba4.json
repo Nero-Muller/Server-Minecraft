@@ -68,6 +68,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-08-24 22:38:42 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-08-24 22:38:46 +0000"
@@ -79,12 +85,6 @@
       "opened_chest": "2025-08-24 22:38:46 +0000"
     },
     "done": false
-  },
-  "mca:root": {
-    "criteria": {
-      "village_taiga": "2025-08-24 22:38:42 +0000"
-    },
-    "done": true
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
