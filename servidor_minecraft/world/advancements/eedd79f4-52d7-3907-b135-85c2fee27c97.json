@@ -75,6 +75,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-24 19:55:32 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-24 19:53:34 +0000"
@@ -90,6 +96,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-08-24 19:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-08-24 19:57:37 +0000"
     },
     "done": true
   },
