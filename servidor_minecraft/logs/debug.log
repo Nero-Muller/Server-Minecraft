@@ -12226,3 +12226,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:11:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> tenkius
 [24Aug2025 20:14:08.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr lost connection: Disconnected
 [24Aug2025 20:14:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr left the game
+[24Aug2025 20:15:00.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 20:15:00.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
