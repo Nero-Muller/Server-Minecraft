@@ -1648,3 +1648,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:36:40.601] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [24Aug2025 19:36:40.655] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
 [24Aug2025 19:36:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Stone Age]
+[24Aug2025 19:37:16.242] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 19:37:25.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[24Aug2025 19:37:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Ice Maze]
+[24Aug2025 19:37:50.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[24Aug2025 19:37:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Sweet Dreams]
+[24Aug2025 19:38:12.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 19:38:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> encontre algo xd
+[24Aug2025 19:38:34.671] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[24Aug2025 19:38:34.693] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[24Aug2025 19:38:34.735] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[24Aug2025 19:38:34.735] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[24Aug2025 19:38:34.735] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[24Aug2025 19:38:34.735] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[24Aug2025 19:38:34.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[24Aug2025 19:39:05.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> que eeess
+[24Aug2025 19:39:23.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Barrel Booty]
+[24Aug2025 19:39:34.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GDMGYT[/127.162.118.138:35269] logged in with entity id 32211 at (-191.5, 69.0, 286.5)
+[24Aug2025 19:39:34.674] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player GDMGYT
+[24Aug2025 19:39:34.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GDMGYT joined the game
+[24Aug2025 19:39:34.735] [Server thread/INFO] [Jade/]: Syncing config to GDMGYT (06455490-9ce9-302a-ad58-a8112bf158f4)
+[24Aug2025 19:39:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Disme A Dozen]
+[24Aug2025 19:39:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki was shot by Skeleton
+[24Aug2025 19:40:12.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> ya ando en el spawn de nuevo
+[24Aug2025 19:40:19.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> reunamonos todos alla
+[24Aug2025 19:40:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> vavava
+[24Aug2025 19:40:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr was shot by Skeleton
+[24Aug2025 19:41:17.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GDMGYT lost connection: Timed out
+[24Aug2025 19:41:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GDMGYT left the game
+[24Aug2025 19:41:43.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Diamonds!]
+[24Aug2025 19:41:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Isn't It Iron Pick]
+[24Aug2025 19:42:27.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Acquire Hardware]
+[24Aug2025 19:43:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Getting an Upgrade]
