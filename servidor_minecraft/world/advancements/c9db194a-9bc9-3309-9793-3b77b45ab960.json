@@ -48,6 +48,8 @@
       "minecraft:stony_shore": "2025-08-19 02:31:53 +0000",
       "minecraft:snowy_taiga": "2025-08-19 02:29:53 +0000",
       "minecraft:lush_caves": "2025-08-19 04:17:05 +0000",
+      "minecraft:frozen_ocean": "2025-08-24 20:21:55 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-24 20:24:40 +0000",
       "minecraft:deep_dark": "2025-08-24 19:14:30 +0000",
       "minecraft:plains": "2025-08-24 19:15:24 +0000"
     },
@@ -89,51 +91,21 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "opened_chest": "2025-08-24 20:03:52 +0000"
+      "crafting_table": "2025-08-24 19:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-24 19:09:36 +0000"
     },
     "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-08-24 19:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-08-24 20:07:20 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-08-24 20:03:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-24 19:55:15 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-08-24 20:08:46 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2025-08-24 19:56:26 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/pirate_pouch": {
-    "criteria": {
-      "has_item": "2025-08-24 19:56:05 +0000"
     },
     "done": true
   },
@@ -149,11 +121,35 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "crafting_table": "2025-08-24 19:09:36 +0000"
+      "iron_pickaxe": "2025-08-24 19:55:15 +0000"
     },
     "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-24 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-08-24 19:56:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-24 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-24 20:03:52 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
@@ -161,9 +157,21 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "crafting_table": "2025-08-24 19:09:36 +0000"
+      "killed_something": "2025-08-24 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-08-24 20:08:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-24 20:24:40 +0000"
     },
     "done": true
   },

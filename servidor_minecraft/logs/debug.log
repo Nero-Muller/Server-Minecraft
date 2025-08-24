@@ -12700,3 +12700,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:24:37.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Crops of the Wild]
 [24Aug2025 20:24:40.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Ice Maze]
 [24Aug2025 20:24:44.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[24Aug2025 20:25:02.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 20:25:02.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 20:25:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> focas jsjsj
+[24Aug2025 20:26:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> me las voy a comer como pide la madre naturaleza
+[24Aug2025 20:26:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> tremendo xd
+[24Aug2025 20:26:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Light as a Rabbit]
+[24Aug2025 20:27:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> una orca aqui :v

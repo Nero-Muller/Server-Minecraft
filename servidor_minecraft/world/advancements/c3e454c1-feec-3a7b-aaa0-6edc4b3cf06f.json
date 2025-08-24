@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-24 18:58:41 +0000",
+      "minecraft:frozen_river": "2025-08-24 20:23:12 +0000",
       "minecraft:stony_shore": "2025-08-24 18:45:37 +0000",
       "minecraft:snowy_taiga": "2025-08-24 18:51:41 +0000"
     },
@@ -37,18 +38,6 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-08-24 18:58:19 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-08-24 18:58:39 +0000"
-    },
-    "done": true
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-08-24 18:45:37 +0000"
@@ -61,15 +50,57 @@
     },
     "done": true
   },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-24 18:45:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-24 18:58:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-08-24 18:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-24 18:58:39 +0000"
     },
     "done": true
   },
-  "bakery:main/root": {
+  "lootr:1chest": {
     "criteria": {
-      "seeds": "2025-08-24 18:45:37 +0000"
+      "opened_chest": "2025-08-24 20:24:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-24 20:24:06 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-08-24 20:23:31 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-24 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-08-24 20:24:37 +0000"
     },
     "done": true
   },
