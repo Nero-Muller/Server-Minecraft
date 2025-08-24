@@ -104,7 +104,8 @@
       "golden_apple": "2025-08-24 19:13:23 +0000",
       "rotten_flesh": "2025-08-24 19:35:54 +0000",
       "glow_berries": "2025-08-24 18:57:29 +0000",
-      "cod": "2025-08-24 19:39:53 +0000"
+      "cod": "2025-08-24 19:39:53 +0000",
+      "carrot": "2025-08-24 19:41:35 +0000"
     },
     "done": false
   },
@@ -159,6 +160,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-08-24 19:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-24 19:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-08-24 19:31:24 +0000"
@@ -168,6 +181,18 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-24 19:39:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-08-24 19:42:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-24 19:40:27 +0000"
     },
     "done": true
   },
@@ -186,6 +211,18 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-24 19:39:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-24 19:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-24 19:41:43 +0000"
     },
     "done": true
   },
@@ -216,6 +253,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-24 19:26:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-08-24 19:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-24 19:42:27 +0000"
     },
     "done": true
   },
