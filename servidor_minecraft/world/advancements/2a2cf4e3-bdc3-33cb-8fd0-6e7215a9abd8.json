@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-08-24 20:01:45 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-08-24 19:42:27 +0000"
