@@ -1687,3 +1687,48 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:46:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> si estamooos
 [24Aug2025 19:46:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> pasenme las cord no recuerdo donde era XD
 [24Aug2025 19:46:57.441] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SledEntity['Sled'/43567, l='ServerLevel[world]', x=-807.50, y=63.50, z=568.00] as it would cause deadlock
+[24Aug2025 19:47:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> xd oks
+[24Aug2025 19:47:45.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> -207 84
+[24Aug2025 19:47:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> 74*
+[24Aug2025 19:47:55.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> 296
+[24Aug2025 19:48:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> 286
+[24Aug2025 19:48:23.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Crops of the Wild]
+[24Aug2025 19:50:09.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> ya volvi xd
+[24Aug2025 19:50:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Light as a Rabbit]
+[24Aug2025 19:50:34.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Krešimir'/53085, l='ServerLevel[world]', x=-416.50, y=72.00, z=323.70] died, message: 'Krešimir froze to death'
+[24Aug2025 19:50:34.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Krešimir'/53085, l='ServerLevel[world]', x=-416.50, y=72.00, z=323.70] died: Krešimir froze to death
+[24Aug2025 19:50:39.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Krsto'/53131, l='ServerLevel[world]', x=-417.17, y=72.00, z=323.71] died, message: 'Krsto froze to death'
+[24Aug2025 19:50:39.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Krsto'/53131, l='ServerLevel[world]', x=-417.17, y=72.00, z=323.71] died: Krsto froze to death
+[24Aug2025 19:50:45.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki has made the advancement [Getting an Upgrade]
+[24Aug2025 19:51:27.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[24Aug2025 19:51:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has completed the challenge [Free Willy]
+[24Aug2025 19:51:41.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> wtf
+[24Aug2025 19:51:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> una Orca XD
+[24Aug2025 19:51:49.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> tremendo xD
+[24Aug2025 19:52:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> encontro el mejor animal marno
+[24Aug2025 19:52:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> AMIGOS
+[24Aug2025 19:52:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> LOS ENCONTRE
+[24Aug2025 19:52:50.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> que pacho
+[24Aug2025 19:52:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> acaray xd
+[24Aug2025 19:53:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> encontre un par de cositas xd
+[24Aug2025 19:53:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> me doy cuenta xd
+[24Aug2025 19:53:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> flamenco xd
+[24Aug2025 19:53:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> encontre bastantes minerales
+[24Aug2025 19:54:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> me trabe bien feo xd
+[24Aug2025 19:54:30.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> nero acompañeme a ir por mis cosas
+[24Aug2025 19:54:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> voy voy
+[24Aug2025 19:54:49.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> tomen
+[24Aug2025 19:55:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> graciass
+[24Aug2025 19:55:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Isn't It Iron Pick]
+[24Aug2025 19:55:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> veni uki
+[24Aug2025 19:55:32.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki has made the advancement [Isn't It Iron Pick]
+[24Aug2025 19:55:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> por cierto tengo esta bolsita que parece una bomba xd
+[24Aug2025 19:56:05.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> a ver xd
+[24Aug2025 19:56:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> es un saco pirata :v
+[24Aug2025 19:56:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> :v
+[24Aug2025 19:56:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> :v
+[24Aug2025 19:56:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> hay piratas en el artico
+[24Aug2025 19:56:51.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> tengo un escudo
+[24Aug2025 19:56:53.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> quien lo quiere
+[24Aug2025 19:57:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> io
+[24Aug2025 19:57:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> tengo una pocion de regeneracion
