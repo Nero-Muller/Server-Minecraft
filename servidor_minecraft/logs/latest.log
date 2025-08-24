@@ -1907,3 +1907,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:45:59.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [24Aug2025 20:46:14.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [24Aug2025 20:48:23.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Set own game mode to Spectator Mode]
+[24Aug2025 21:17:07.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Aug2025 21:17:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Aug2025 21:17:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Aug2025 21:17:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Aug2025 21:17:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Aug2025 21:17:08.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[24Aug2025 21:17:08.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Aug2025 21:17:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Aug2025 21:17:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Aug2025 21:17:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[24Aug2025 21:17:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Aug2025 21:17:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
