@@ -1785,3 +1785,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:11:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> tenkius
 [24Aug2025 20:14:08.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeroMr lost connection: Disconnected
 [24Aug2025 20:14:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr left the game
+[24Aug2025 20:18:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki has made the advancement [Sweet Dreams]
+[24Aug2025 20:18:49.352] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[24Aug2025 20:18:49.358] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[24Aug2025 20:18:49.378] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[24Aug2025 20:18:49.378] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[24Aug2025 20:18:49.378] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[24Aug2025 20:18:49.378] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[24Aug2025 20:18:49.378] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[24Aug2025 20:19:11.282] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 20:20:38.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeroMr[/127.141.236.192:38067] logged in with entity id 106531 at (-350.8992205623847, 72.0, 316.0384875437376)
+[24Aug2025 20:20:38.957] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player NeroMr
+[24Aug2025 20:20:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr joined the game
+[24Aug2025 20:20:39.008] [Server thread/INFO] [Jade/]: Syncing config to NeroMr (c9db194a-9bc9-3309-9793-3b77b45ab960)
+[24Aug2025 20:21:05.731] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cd1fa18[id=<null>,name=GodJsue,properties={},legacy=false] (/127.168.184.41:55861) lost connection: Disconnected
+[24Aug2025 20:21:10.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GodJsue[/127.168.184.41:44027] logged in with entity id 106784 at (-268.26494862803645, 80.0, 275.43005800339427)
+[24Aug2025 20:21:10.969] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player GodJsue
+[24Aug2025 20:21:10.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue joined the game
+[24Aug2025 20:21:11.015] [Server thread/INFO] [Jade/]: Syncing config to GodJsue (c3e454c1-feec-3a7b-aaa0-6edc4b3cf06f)
+[24Aug2025 20:21:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> ojo
+[24Aug2025 20:21:31.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> nariz
+[24Aug2025 20:21:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to Uki]
+[24Aug2025 20:22:58.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> una orca xd
+[24Aug2025 20:23:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Minecraft Comes Alive]
+[24Aug2025 20:23:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> un jsue salvaje
+[24Aug2025 20:24:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> mordio a Uki xD
+[24Aug2025 20:24:06.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement ['X' Marks the Spot]
+[24Aug2025 20:24:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Amateur Archaeologist]
+[24Aug2025 20:24:37.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Crops of the Wild]
+[24Aug2025 20:24:40.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Ice Maze]
+[24Aug2025 20:24:44.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
