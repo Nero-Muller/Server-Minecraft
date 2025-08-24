@@ -1638,3 +1638,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:32:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> buenas a todos jsjs
 [24Aug2025 19:32:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> oa
 [24Aug2025 19:32:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> volviste xd
+[24Aug2025 19:35:29.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Smiljan'/17446, l='ServerLevel[world]', x=-383.50, y=74.00, z=288.54] died, message: 'Smiljan froze to death'
+[24Aug2025 19:35:29.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Smiljan'/17446, l='ServerLevel[world]', x=-383.50, y=74.00, z=288.54] died: Smiljan froze to death
+[24Aug2025 19:36:18.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Aug2025 19:36:23.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[24Aug2025 19:36:23.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki froze to death
+[24Aug2025 19:36:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> XD
+[24Aug2025 19:36:38.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> c murio de frio
+[24Aug2025 19:36:40.601] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[24Aug2025 19:36:40.655] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 19:36:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Stone Age]

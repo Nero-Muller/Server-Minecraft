@@ -75,5 +75,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-24 19:34:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
