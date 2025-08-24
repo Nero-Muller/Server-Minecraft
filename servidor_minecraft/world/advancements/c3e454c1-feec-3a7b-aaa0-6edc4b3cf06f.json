@@ -16,7 +16,10 @@
       "minecraft:taiga": "2025-08-24 18:58:41 +0000",
       "minecraft:frozen_river": "2025-08-24 20:23:12 +0000",
       "minecraft:stony_shore": "2025-08-24 18:45:37 +0000",
-      "minecraft:snowy_taiga": "2025-08-24 18:51:41 +0000"
+      "minecraft:snowy_taiga": "2025-08-24 18:51:41 +0000",
+      "minecraft:frozen_ocean": "2025-08-24 20:27:07 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-24 20:29:10 +0000",
+      "minecraft:snowy_beach": "2025-08-24 20:26:59 +0000"
     },
     "done": false
   },
@@ -80,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-24 20:29:18 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-08-24 20:24:06 +0000"
@@ -95,6 +104,31 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-08-24 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-08-24 20:25:22 +0000",
+      "bread": "2025-08-24 20:25:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-24 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-24 20:25:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-24 20:29:10 +0000"
     },
     "done": true
   },

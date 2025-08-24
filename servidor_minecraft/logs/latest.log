@@ -1820,3 +1820,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:26:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> tremendo xd
 [24Aug2025 20:26:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Light as a Rabbit]
 [24Aug2025 20:27:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> una orca aqui :v
+[24Aug2025 20:27:35.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[24Aug2025 20:27:50.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 20:27:50.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 20:27:51.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 20:28:00.089] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/116474, l='ServerLevel[world]', x=-926.50, y=32.00, z=252.50]
+[24Aug2025 20:28:19.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> mate a las focas?=
+[24Aug2025 20:28:29.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> no soltaron nada
+[24Aug2025 20:28:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Stone Age]
+[24Aug2025 20:28:50.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dhian'/113933, l='ServerLevel[world]', x=-876.42, y=63.00, z=234.87] died, message: 'Dhian was slain by Maw'
+[24Aug2025 20:28:50.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dhian'/113933, l='ServerLevel[world]', x=-876.42, y=63.00, z=234.87] died: Dhian was slain by Maw
+[24Aug2025 20:29:02.480] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/118555, l='ServerLevel[world]', x=-920.50, y=35.00, z=229.50]
+[24Aug2025 20:29:10.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Ice Maze]
+[24Aug2025 20:29:17.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sarojini'/112223, l='ServerLevel[world]', x=-720.72, y=63.00, z=248.64] died, message: 'Sarojini froze to death'
+[24Aug2025 20:29:17.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sarojini'/112223, l='ServerLevel[world]', x=-720.72, y=63.00, z=248.64] died: Sarojini froze to death
+[24Aug2025 20:29:18.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Sweet Dreams]
+[24Aug2025 20:29:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> duerman
+[24Aug2025 20:29:43.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Namita'/112990, l='ServerLevel[world]', x=-775.49, y=62.00, z=251.70] died, message: 'Namita froze to death'
+[24Aug2025 20:29:43.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Namita'/112990, l='ServerLevel[world]', x=-775.49, y=62.00, z=251.70] died: Namita froze to death
+[24Aug2025 20:29:52.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Sweet Dreams]
+[24Aug2025 20:31:55.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> rawr
+[24Aug2025 20:32:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> >:3
+[24Aug2025 20:32:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Light as a Rabbit]
+[24Aug2025 20:32:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> nero?
+[24Aug2025 20:33:00.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> mande
+[24Aug2025 20:33:06.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/128668, l='ServerLevel[world]', x=-925.50, y=35.00, z=247.50]
+[24Aug2025 20:33:08.329] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/128726, l='ServerLevel[world]', x=-927.50, y=33.00, z=232.50]
+[24Aug2025 20:33:11.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 20:33:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> desaparecio de m i vista xd
+[24Aug2025 20:33:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> xd
+[24Aug2025 20:33:28.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> jsue
+[24Aug2025 20:33:41.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> vamos a chismosear al jsue
+[24Aug2025 20:33:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> los oso polares dan cuero ?
+[24Aug2025 20:33:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> nop
+[24Aug2025 20:34:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> solo vacas y caballos
+[24Aug2025 20:34:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> nu
+[24Aug2025 20:34:12.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/132166, l='ServerLevel[world]', x=-923.50, y=40.00, z=238.50]
+[24Aug2025 20:34:50.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> que paso
