@@ -1,34 +1,7 @@
 {
-  "mca:root": {
-    "criteria": {
-      "village_taiga": "2025-08-19 02:37:53 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_slanted_recipe": "2025-08-19 02:29:49 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-08-19 02:29:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-08-19 02:37:37 +0000",
-      "minecraft:frozen_river": "2025-08-19 02:37:38 +0000",
-      "minecraft:stony_shore": "2025-08-19 02:31:53 +0000",
-      "minecraft:snowy_taiga": "2025-08-19 02:29:53 +0000"
-    },
-    "done": false
-  },
-  "cosmeticarmoursmod:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-08-19 02:29:52 +0000"
     },
     "done": true
   },
@@ -44,9 +17,21 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
+  "bakery:main/root": {
     "criteria": {
-      "has_item": "2025-08-19 02:39:46 +0000"
+      "seeds": "2025-08-19 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-19 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-19 02:29:52 +0000"
     },
     "done": true
   },
@@ -56,9 +41,37 @@
     },
     "done": true
   },
-  "bakery:main/root": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "seeds": "2025-08-19 02:29:49 +0000"
+      "minecraft:taiga": "2025-08-19 02:37:37 +0000",
+      "minecraft:frozen_river": "2025-08-19 02:37:38 +0000",
+      "minecraft:stony_shore": "2025-08-19 02:31:53 +0000",
+      "minecraft:snowy_taiga": "2025-08-19 02:29:53 +0000",
+      "minecraft:lush_caves": "2025-08-19 04:17:05 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-08-19 02:37:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-19 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-08-19 04:31:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-08-20 22:43:03 +0000"
     },
     "done": true
   },

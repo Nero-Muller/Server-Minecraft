@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eedd79f452d73907b13585c2fee27c97"
+	name: "Uki#eedd79f4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

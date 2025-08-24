@@ -1,0 +1,17 @@
+{
+	id: "eedd79f4-52d7-3907-b135-85c2fee27c97"
+	type: "player"
+	player_name: "Uki"
+	ranks: {
+		eedd79f4-52d7-3907-b135-85c2fee27c97: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Uki"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

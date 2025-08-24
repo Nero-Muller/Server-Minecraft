@@ -1,0 +1,17 @@
+{
+	id: "06455490-9ce9-302a-ad58-a8112bf158f4"
+	type: "player"
+	player_name: "GDMGYT"
+	ranks: {
+		06455490-9ce9-302a-ad58-a8112bf158f4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GDMGYT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
