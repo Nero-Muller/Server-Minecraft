@@ -49,6 +49,7 @@
       "minecraft:snowy_taiga": "2025-08-19 04:09:40 +0000",
       "minecraft:lush_caves": "2025-08-19 04:16:59 +0000",
       "minecraft:frozen_ocean": "2025-08-24 20:21:34 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-24 20:35:41 +0000",
       "minecraft:snowy_beach": "2025-08-24 20:18:51 +0000"
     },
     "done": false
@@ -110,6 +111,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-24 19:53:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-24 20:35:41 +0000"
     },
     "done": true
   },

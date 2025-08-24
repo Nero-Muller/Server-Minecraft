@@ -147,6 +147,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-08-24 20:38:36 +0000",
       "opened_chest": "2025-08-24 20:03:52 +0000"
     },
     "done": false
@@ -178,6 +179,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-08-24 20:24:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-24 20:38:36 +0000"
     },
     "done": true
   },

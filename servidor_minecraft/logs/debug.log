@@ -12770,3 +12770,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:37:10.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/141310, l='ServerLevel[world]', x=-922.50, y=41.00, z=253.50]
 [24Aug2025 20:37:25.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> te di algo
 [24Aug2025 20:37:36.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> tremendo
+[24Aug2025 20:38:13.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> el pergamino se lo devuelvo?
+[24Aug2025 20:38:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> na
+[24Aug2025 20:38:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue has made the advancement [Barrel Booty]
+[24Aug2025 20:38:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Barrel Booty]
+[24Aug2025 20:38:53.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> graciasss pero yo voy a pasar a desconectarme pueden seguir jugando
+[24Aug2025 20:39:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> a
+[24Aug2025 20:40:02.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 20:40:02.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 20:40:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> encontre
+[24Aug2025 20:40:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> una base de los que atacan aldeanos
+[24Aug2025 20:40:48.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> tremendo
+[24Aug2025 20:41:02.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> zzzzzz
+[24Aug2025 20:41:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> duerman
+[24Aug2025 20:42:19.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> zzzzzzz
+[24Aug2025 20:42:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr was slain by Tortured Soul
+[24Aug2025 20:42:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to -997.500000, 63.500000, 252.500000]
+[24Aug2025 20:43:00.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uki lost connection: Disconnected
+[24Aug2025 20:43:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki left the game
+[24Aug2025 20:43:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr was slain by Tortured Soul
+[24Aug2025 20:43:07.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> entro despues
+[24Aug2025 20:43:15.307] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[24Aug2025 20:43:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> ow, okas
+[24Aug2025 20:43:20.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to -1004.500000, 62.500000, 254.500000]
+[24Aug2025 20:43:36.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodJsue lost connection: Disconnected
+[24Aug2025 20:43:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodJsue left the game
+[24Aug2025 20:45:02.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 20:45:02.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
