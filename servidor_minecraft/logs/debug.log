@@ -12746,3 +12746,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 20:34:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> nu
 [24Aug2025 20:34:12.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/132166, l='ServerLevel[world]', x=-923.50, y=40.00, z=238.50]
 [24Aug2025 20:34:50.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> que paso
+[24Aug2025 20:35:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> nose, te me habias acercado xd
+[24Aug2025 20:35:02.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 20:35:02.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 20:35:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> si te dije para ir con jsue xd
+[24Aug2025 20:35:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> vamos xd
+[24Aug2025 20:35:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> oks
+[24Aug2025 20:35:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported NeroMr to GodJsue]
+[24Aug2025 20:35:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeroMr: Teleported Uki to NeroMr]
+[24Aug2025 20:35:41.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki has made the advancement [Ice Maze]
+[24Aug2025 20:36:05.872] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[24Aug2025 20:36:05.890] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[24Aug2025 20:36:05.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[24Aug2025 20:36:05.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[24Aug2025 20:36:05.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[24Aug2025 20:36:05.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[24Aug2025 20:36:05.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[24Aug2025 20:36:09.482] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bakery:oat_field is being run through DFU (hash fba019ecc5fb3aa7a05469d317b4499189113a1a9e8f3e07300cd46743d793d6), this will cause launch time delays
+[24Aug2025 20:36:35.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uki: Teleported Uki to GodJsue]
+[24Aug2025 20:36:42.826] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/139842, l='ServerLevel[world]', x=-921.50, y=31.00, z=246.50]
+[24Aug2025 20:36:52.727] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/140364, l='ServerLevel[world]', x=-927.50, y=22.00, z=251.50]
+[24Aug2025 20:37:01.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/140909, l='ServerLevel[world]', x=-920.50, y=35.00, z=242.50]
+[24Aug2025 20:37:10.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/141310, l='ServerLevel[world]', x=-922.50, y=41.00, z=253.50]
+[24Aug2025 20:37:25.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodJsue> te di algo
+[24Aug2025 20:37:36.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> tremendo
