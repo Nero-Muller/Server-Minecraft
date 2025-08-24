@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-24 22:55:29 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-08-24 22:45:36 +0000"
@@ -245,6 +251,12 @@
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2025-08-24 22:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-24 22:55:29 +0000"
     },
     "done": true
   },
@@ -269,6 +281,12 @@
   "aquamirae:recipes/abyssal_amethyst": {
     "criteria": {
       "has_item": "2025-08-24 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2025-08-24 22:56:07 +0000"
     },
     "done": true
   },

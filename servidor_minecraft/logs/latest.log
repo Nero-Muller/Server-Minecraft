@@ -1659,3 +1659,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 22:52:33.405] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13868, l='ServerLevel[world]', x=-925.50, y=31.00, z=245.50]
 [24Aug2025 22:53:24.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14330, l='ServerLevel[world]', x=-926.50, y=36.00, z=230.50]
 [24Aug2025 22:54:15.252] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14697, l='ServerLevel[world]', x=-926.50, y=41.00, z=240.50]
+[24Aug2025 22:54:59.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15027, l='ServerLevel[world]', x=-920.50, y=31.00, z=243.50]
+[24Aug2025 22:55:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Monster Hunter]
+[24Aug2025 22:55:46.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15331, l='ServerLevel[world]', x=-919.50, y=34.00, z=236.50]
+[24Aug2025 22:56:07.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeroMr has made the advancement [Become a Mahou Tsukai!]
+[24Aug2025 22:56:11.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Disconnected
+[24Aug2025 22:56:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 22:56:22.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:43915] logged in with entity id 15474 at (-329.44936918781104, 73.0, 324.0611508214445)
+[24Aug2025 22:56:22.427] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 22:56:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 22:56:22.462] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 22:57:20.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 22:57:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 22:57:50.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shail'/9447, l='ServerLevel[world]', x=-800.71, y=63.00, z=308.50] died, message: 'Shail was slain by Zombie'
+[24Aug2025 22:57:50.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shail'/9447, l='ServerLevel[world]', x=-800.71, y=63.00, z=308.50] died: Shail was slain by Zombie
+[24Aug2025 22:58:39.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:39137] logged in with entity id 15985 at (-329.44936918781104, 73.0, 324.0611508214445)
+[24Aug2025 22:58:39.175] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 22:58:39.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 22:58:39.199] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 23:01:06.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 23:01:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 23:01:33.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:46677] logged in with entity id 16808 at (-349.64809620826685, 70.0, 312.48967917852264)
+[24Aug2025 23:01:33.031] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 23:01:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 23:01:33.062] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 23:02:31.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 23:02:31.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 23:02:45.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:55789] logged in with entity id 18381 at (-349.64809620826685, 70.0, 312.48967917852264)
+[24Aug2025 23:02:45.124] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 23:02:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 23:02:45.158] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
+[24Aug2025 23:03:43.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonyVergas lost connection: Timed out
+[24Aug2025 23:03:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas left the game
+[24Aug2025 23:04:22.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonyVergas[/127.159.228.156:49887] logged in with entity id 18827 at (-349.64809620826685, 70.0, 312.48967917852264)
+[24Aug2025 23:04:22.723] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SonyVergas
+[24Aug2025 23:04:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonyVergas joined the game
+[24Aug2025 23:04:22.752] [Server thread/INFO] [Jade/]: Syncing config to SonyVergas (66ec4990-8da7-31d7-9194-e605f5d73ba4)
