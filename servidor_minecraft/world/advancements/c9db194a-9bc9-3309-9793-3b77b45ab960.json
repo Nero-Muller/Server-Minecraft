@@ -87,5 +87,17 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-08-24 19:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-24 19:09:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1493,3 +1493,81 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:06:12.911] [Server thread/INFO] [Jade/]: Syncing config to TheLegxdz (2a2cf4e3-bdc3-33cb-8fd0-6e7215a9abd8)
 [24Aug2025 19:06:14.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
 [24Aug2025 19:06:30.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[24Aug2025 19:06:37.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[24Aug2025 19:06:49.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[24Aug2025 19:06:50.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[24Aug2025 19:06:51.665] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[24Aug2025 19:06:51.992] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleCategory
+[24Aug2025 19:06:51.994] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleStage
+[24Aug2025 19:07:18.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uki lost connection: Disconnected
+[24Aug2025 19:07:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki left the game
+[24Aug2025 19:07:18.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[24Aug2025 19:07:18.594] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 19:07:22.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NeroMr a server operator
+[24Aug2025 19:07:29.383] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Aug2025 19:07:34.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[24Aug2025 19:07:34.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[24Aug2025 19:07:34.171] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[24Aug2025 19:07:41.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/snowyspirit/common/entity/GroundStatus
+[24Aug2025 19:08:04.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Suit Up]
+[24Aug2025 19:08:19.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Aug2025 19:08:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> me salio speed runner :v
+[24Aug2025 19:08:39.545] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.546] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[24Aug2025 19:08:39.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[24Aug2025 19:08:39.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[24Aug2025 19:08:39.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.552] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.552] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:39.552] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Aug2025 19:08:50.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anastassiya'/796, l='ServerLevel[world]', x=1922.50, y=133.00, z=-1377.72] died, message: 'Anastassiya froze to death'
+[24Aug2025 19:08:50.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anastassiya'/796, l='ServerLevel[world]', x=1922.50, y=133.00, z=-1377.72] died: Anastassiya froze to death
+[24Aug2025 19:08:50.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[24Aug2025 19:08:50.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[24Aug2025 19:08:59.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[24Aug2025 19:09:06.844] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[24Aug2025 19:09:06.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[24Aug2025 19:09:24.774] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Aug2025 19:09:28.086] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 10.58 ms. 5233/5329 recipes are parallelized.
+[24Aug2025 19:09:36.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[24Aug2025 19:09:38.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GDMGYT lost connection: Timed out
+[24Aug2025 19:09:38.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GDMGYT left the game
+[24Aug2025 19:10:12.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Taisia'/840, l='ServerLevel[world]', x=1918.50, y=133.00, z=-1364.29] died, message: 'Taisia froze to death'
+[24Aug2025 19:10:12.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Taisia'/840, l='ServerLevel[world]', x=1918.50, y=133.00, z=-1364.29] died: Taisia froze to death
+[24Aug2025 19:10:29.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uki[/127.195.50.250:34851] logged in with entity id 4338 at (-418.72639669350036, 63.0, 247.8648005197537)
+[24Aug2025 19:10:29.162] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Uki
+[24Aug2025 19:10:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki joined the game
+[24Aug2025 19:10:29.243] [Server thread/INFO] [Jade/]: Syncing config to Uki (eedd79f4-52d7-3907-b135-85c2fee27c97)
+[24Aug2025 19:11:23.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vjacheslav'/3932, l='ServerLevel[world]', x=1895.50, y=112.00, z=-1431.30] died, message: 'Vjacheslav froze to death'
+[24Aug2025 19:11:23.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vjacheslav'/3932, l='ServerLevel[world]', x=1895.50, y=112.00, z=-1431.30] died: Vjacheslav froze to death
+[24Aug2025 19:12:57.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uki lost connection: Timed out
+[24Aug2025 19:12:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki left the game

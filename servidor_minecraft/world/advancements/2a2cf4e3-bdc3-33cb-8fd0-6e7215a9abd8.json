@@ -1,31 +1,25 @@
 {
-  "lootr:1chest": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "opened_chest": "2025-08-24 18:57:06 +0000"
+      "seeds": "2025-08-24 18:46:29 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
     "criteria": {
-      "avoid_vibration": "2025-08-24 18:50:51 +0000"
+      "cosmetic_armours_achievement_0": "2025-08-24 18:46:29 +0000"
     },
     "done": true
   },
-  "lootr:social": {
+  "bakery:main/root": {
     "criteria": {
-      "opened_chest": "2025-08-24 18:57:06 +0000"
+      "seeds": "2025-08-24 18:46:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-08-24 18:46:30 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-08-24 18:57:12 +0000"
     },
     "done": true
   },
@@ -48,36 +42,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "glow_berries": "2025-08-24 18:57:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-24 18:49:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-08-24 18:46:29 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-08-24 18:49:57 +0000"
-    },
-    "done": true
-  },
-  "cosmeticarmoursmod:cosmetic_armours_achievement": {
-    "criteria": {
-      "cosmetic_armours_achievement_0": "2025-08-24 18:46:29 +0000"
-    },
-    "done": true
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-08-24 18:46:30 +0000"
@@ -90,9 +54,57 @@
     },
     "done": true
   },
-  "bakery:main/root": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "seeds": "2025-08-24 18:46:29 +0000"
+      "consumed_item": "2025-08-24 18:49:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-08-24 18:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-24 18:50:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-24 18:57:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-24 18:57:06 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-24 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "glow_berries": "2025-08-24 18:57:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-24 19:08:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-08-24 19:08:00 +0000"
     },
     "done": true
   },
