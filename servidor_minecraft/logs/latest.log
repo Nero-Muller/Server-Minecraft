@@ -1613,3 +1613,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Aug2025 19:25:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> que paso con los demas xd
 [24Aug2025 19:25:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> Uki si se le peto el pc
 [24Aug2025 19:25:45.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> Uki esta reiniciando pc, los demas no se
+[24Aug2025 19:27:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Stone Age]
+[24Aug2025 19:27:17.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> esperamos a los demas xd?
+[24Aug2025 19:27:24.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Getting an Upgrade]
+[24Aug2025 19:27:32.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GDMGYT[/127.162.118.138:40837] logged in with entity id 21101 at (-191.5, 69.0, 286.5)
+[24Aug2025 19:27:32.302] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player GDMGYT
+[24Aug2025 19:27:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GDMGYT joined the game
+[24Aug2025 19:27:32.371] [Server thread/INFO] [Jade/]: Syncing config to GDMGYT (06455490-9ce9-302a-ad58-a8112bf158f4)
+[24Aug2025 19:27:36.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> oa
+[24Aug2025 19:28:30.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GDMGYT lost connection: Timed out
+[24Aug2025 19:28:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GDMGYT left the game
+[24Aug2025 19:29:06.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[24Aug2025 19:29:28.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uki[/127.195.50.250:48299] logged in with entity id 21861 at (-418.72639669350036, 63.0, 247.8648005197537)
+[24Aug2025 19:29:28.872] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Uki
+[24Aug2025 19:29:28.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uki joined the game
+[24Aug2025 19:29:28.949] [Server thread/INFO] [Jade/]: Syncing config to Uki (eedd79f4-52d7-3907-b135-85c2fee27c97)
+[24Aug2025 19:29:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> hola Uki
+[24Aug2025 19:30:55.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Aug2025 19:31:11.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeroMr> aun le esta cargando
+[24Aug2025 19:31:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> xd
+[24Aug2025 19:31:24.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Monster Hunter]
+[24Aug2025 19:31:57.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheLegxdz has made the advancement [Minecraft Comes Alive]
+[24Aug2025 19:32:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> AL FIN
+[24Aug2025 19:32:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uki> buenas a todos jsjs
+[24Aug2025 19:32:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> oa
+[24Aug2025 19:32:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheLegxdz> volviste xd
