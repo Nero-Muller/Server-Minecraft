@@ -1,298 +1,70 @@
 {
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "has_the_slanted_recipe": "2025-08-19 02:29:49 +0000"
+      "has_the_upright_recipe": "2025-08-24 23:52:48 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-08-19 02:29:49 +0000"
+      "seeds": "2025-08-24 23:52:48 +0000"
     },
     "done": true
   },
   "cosmeticarmoursmod:cosmetic_armours_achievement": {
     "criteria": {
-      "cosmetic_armours_achievement_0": "2025-08-19 02:29:49 +0000"
+      "cosmetic_armours_achievement_0": "2025-08-24 23:52:48 +0000"
     },
     "done": true
   },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2025-08-19 02:29:49 +0000"
+      "seeds": "2025-08-24 23:52:48 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2025-08-19 02:29:52 +0000"
-    },
-    "done": true
-  },
-  "cosmeticarmoursmod:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-08-19 02:29:52 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-08-19 02:29:52 +0000"
+      "always_true": "2025-08-24 23:52:53 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-08-19 02:37:37 +0000",
-      "minecraft:frozen_river": "2025-08-19 02:37:38 +0000",
-      "minecraft:stony_shore": "2025-08-19 02:31:53 +0000",
-      "minecraft:snowy_taiga": "2025-08-19 02:29:53 +0000",
-      "minecraft:lush_caves": "2025-08-19 04:17:05 +0000",
-      "minecraft:frozen_ocean": "2025-08-24 20:21:55 +0000",
-      "minecraft:deep_frozen_ocean": "2025-08-24 20:24:40 +0000",
-      "minecraft:deep_dark": "2025-08-24 19:14:30 +0000",
-      "minecraft:plains": "2025-08-24 19:15:24 +0000"
+      "minecraft:taiga": "2025-08-24 23:55:20 +0000",
+      "minecraft:frozen_river": "2025-08-24 23:55:21 +0000",
+      "minecraft:stony_shore": "2025-08-24 23:55:04 +0000",
+      "minecraft:snowy_taiga": "2025-08-24 23:52:53 +0000"
     },
     "done": false
   },
-  "mca:root": {
+  "cosmeticarmoursmod:grant_book_on_first_join": {
     "criteria": {
-      "village_taiga": "2025-08-19 02:37:53 +0000"
+      "tick": "2025-08-24 23:52:53 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
+  "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "has_item": "2025-08-19 02:39:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-08-19 04:31:06 +0000"
+      "tick": "2025-08-24 23:52:53 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-08-20 22:43:03 +0000"
+      "tick": "2025-08-24 23:52:53 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "mca:root": {
     "criteria": {
-      "bread": "2025-08-24 18:52:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-24 18:52:17 +0000"
+      "village_taiga": "2025-08-24 23:55:28 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
+  "immersive_armors:recipes/misc/wooden": {
     "criteria": {
-      "crafting_table": "2025-08-24 19:09:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-08-24 19:09:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-08-24 19:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-08-24 19:36:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-08-24 19:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-24 19:55:15 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/pirate_pouch": {
-    "criteria": {
-      "has_item": "2025-08-24 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2025-08-24 19:56:26 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-08-24 20:03:52 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-08-24 20:38:36 +0000",
-      "opened_chest": "2025-08-24 20:03:52 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-08-24 20:04:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-08-24 20:07:20 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-08-24 20:08:46 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-08-24 20:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2025-08-24 20:26:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-08-24 20:29:52 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-08-24 20:38:36 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2025-08-24 20:45:27 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2025-08-24 20:45:27 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-08-24 20:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-08-24 20:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-08-24 20:45:34 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/fin": {
-    "criteria": {
-      "has_item": "2025-08-24 22:23:56 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2025-08-24 22:23:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-08-24 22:55:29 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-08-24 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_esca": {
-    "criteria": {
-      "esca": "2025-08-24 22:46:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:pillager": "2025-08-24 22:55:29 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/ship_graveyard_echo": {
-    "criteria": {
-      "has_item": "2025-08-24 22:46:53 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2025-08-24 22:43:57 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/sharp_bones": {
-    "criteria": {
-      "has_item": "2025-08-24 22:46:54 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/abyssal_amethyst": {
-    "criteria": {
-      "has_item": "2025-08-24 22:46:55 +0000"
-    },
-    "done": true
-  },
-  "mahoutsukai:root": {
-    "criteria": {
-      "mahoutsukai": "2025-08-24 22:56:07 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/esca": {
-    "criteria": {
-      "has_item": "2025-08-24 22:46:04 +0000"
+      "has_item": "2025-08-25 00:27:06 +0000"
     },
     "done": true
   },
